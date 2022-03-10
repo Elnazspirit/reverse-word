@@ -1,4 +1,4 @@
-# reverse a word
+# reverse a word in C language
 int main() {
 
     char a[]="book";
